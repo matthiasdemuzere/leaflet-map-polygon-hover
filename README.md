@@ -1,6 +1,10 @@
 # leaflet-map-polygon-hover
 Leaflet thematic polygon (choropleth) map, with hover info window, using GeoJSON data
 
+# My version
+
+https://matthiasdemuzere.github.io/leaflet-map-polygon-hover/
+
 ## Demo
 - http://jackdougherty.github.io/leaflet-map-polygon-hover/index.html
 
